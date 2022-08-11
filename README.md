@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics with a focus on SQL, Tableau and Python
 - 💞️ I’m looking to get into a workplace where I get an opportunity to collaborate with fellow Data Analysts to learn more about the industry and enhance my skill
 - 📫 Email - keshavdewan1990@gmail.com
-- 📫 LinkedIN - [Keshav Dewan](https://www.linkedin.com/in/keshav-dewan-44a41584/)
+- 📫 LinkedIn - [Keshav Dewan](https://www.linkedin.com/in/keshav-dewan-44a41584/)
 - 📫 Tableau - [Keshav Dewan](https://public.tableau.com/app/profile/keshav.dewan3649)
 
 <!---
