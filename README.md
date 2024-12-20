@@ -19,9 +19,21 @@
 </div>
 
 
-👩‍🎓 I was in the Real Estate Industry in India
+👩‍🎓 Educational background in the field of Engineering & Construction Management 
   
+🏗️ Worked in the Real Estate industry in different profiles
+
 📈 Managed client portfolio of approximately 8Mn Sft of office space
+
+📊 Did career transition in the field of Data Analytics
+
+🏅 Have been active in different sports throught career
+
+🥾 Enjoy hiking and nature walks
+
+
+
+
 
 
 
